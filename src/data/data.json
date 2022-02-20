@@ -1,0 +1,102 @@
+{
+  "Header": {
+    "title": "Feed Your Stray",
+    "paragraph": "Love All, Serve All!"
+  },
+  "About": {
+    "paragraph": "Our purpose is to rescue as many animals as possible from homelessness and suffering by engaging the local community. We educate about animal behavior, eradicate fear, and infuse love in our local community for all the animals that share it. We are ethical, honest and transparent and would be happy to answer any questions about our operations and how the donations are spent.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sriram PS",
+      "job": "President"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Edwin R",
+      "job": "Director of Operation"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Suraj Naik",
+      "job": "Trustee"
+    }
+  ],
+  "Contact": {
+    "address": "Bengaluru, Karnataka",
+    "phone": "+1 123 456 1234",
+    "email": "feedyourstray@gmail.com",
+    "facebook": "https://www.facebook.com/feedyourstray/",
+    "twitter": "https://twitter.com/FeedYourStray",
+    "instagram": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-home",
+      "title": "",
+      "text": "Animals and birds in need of homes are rehomed by passionate neighbourhood communities."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "",
+      "text": "Working with various rescue groups and animal enthusiasts to find a home for abandoned animals that often come from neglectful situations."
+    },
+    {
+      "icon": "fa fa-ban",
+      "title": "",
+      "text": "We are a 100% non-profit charity and rely solely on donations. Every donation raised goes straight to the animal's welfare."
+    },
+    {
+      "icon": "fa fa-paw",
+      "title": "",
+      "text": "We feed various stray dogs."
+    }
+  ]
+}
